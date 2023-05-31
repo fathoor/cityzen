@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cityzen</string>
+    <string name="no_data">No Player Found!</string>
+    <string name="search_player">Search Player</string>
+    <string name="home">Home</string>
+    <string name="highlight">Highlight</string>
+    <string name="profile">Profile</string>
+    <string name="github_image">https://cdn.discordapp.com/attachments/1102417316022587482/1112291600052260954/Fathoorrrr.jpg</string>
+    <string name="github_name">Fathoor</string>
+    <string name="github_email">mfathoor.23@gmail.com</string>
+    <string name="nationality">"Nationality: "</string>
+    <string name="position">"Position: "</string>
+</resources>
